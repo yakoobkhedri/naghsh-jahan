@@ -34,9 +34,14 @@
     bottom: 45px;
     z-index: 99;
 }
-
+.w-240{
+    width: 240px;
+}
 .w-480{
     width: 480px;
+}
+.h-240{
+    height: 240px;
 }
 .h-480{
     height: 480px;
